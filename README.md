@@ -6,4 +6,4 @@
 **That is our web page :**
 ![image](webpage.jpg)
 
-**I was used [Miro](https://miro.com/) to draw a web page**
+**I was used [Miro](https://miro.com/) to draw a web page.**
